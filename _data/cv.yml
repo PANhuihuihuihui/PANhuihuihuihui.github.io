@@ -56,8 +56,7 @@
             - Added face detection to reduce the false alarm rate helmets may be occluded by their body some because of squatting to work.
         - title: Achievement
           contents:
-            - Capture a worker ’s image after detecting he is not wearing helmet for 2 seconds,
-sending it to cloud sever and trigger an IOT LED alarm on site.
+            - Capture a worker ’s image after detecting he is not wearing helmet for 2 seconds, sending it to cloud sever and trigger an IOT LED alarm on site.
             - The detection accuracy was above 95%. The false detection rate was below 1%.
 
 
