@@ -4,7 +4,7 @@
     - name: Full Name
       value: Huijie Pan
     - name: Languages
-      value: Chinese,English
+      value: Chinese, English
 
 - title: Education
   type: time_table
@@ -28,9 +28,12 @@
           contents:
           - Operating System, Web Development, Computer Networks, Algorithm and Data Structure, Functional Programming, 
           - Time-series Analysis, Multivariate data and Linear statistical analysis'
+# - title: Project
+#   type: time_table
+#   contents:
+#     - title: 
 
-
-- title: Experience
+- title: Intership
   type: time_table
   contents:
     - title: '<b>Programmer</b> :Thermal camera for mask and fever detection'
